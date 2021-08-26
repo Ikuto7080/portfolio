@@ -1,0 +1,26 @@
+#service{
+        background-size: cover;
+        background-image: url("~@/assets/service_bg.jpg");
+
+        .service-wrap{
+            background:rgba(0,0,0,0.55);
+        }
+
+        h2{
+            color: white;
+        }
+
+        .title{
+            color: white;
+            font-size: 26px;
+        }
+        .txt{
+            color: white;
+        }
+        .price_1{
+            color: white;
+        }
+        .price_2{
+            color: white;
+        }
+}
